@@ -13,10 +13,10 @@ def divide(n1, n2):
 if __name__ == "__main__":
     print("This is calculator script\n")
 
-    print("Addition of 2 and 4:", add(2, 4))
-    print("Substraction of 2 and 4:", subtract(2, 4))
-    print("Multiplication of 2 and 4:", multiply(2, 4))
-    print("Division of 2 and 4:", divide(2, 4))
+    print("Addition of 1 and 2:", add(1, 2))
+    print("Substraction of 1 and 2:", subtract(1, 2))
+    print("Multiplication of 1 and 2:", multiply(1, 2))
+    print("Division of 1 and 2:", divide(1, 2))
 
     print("\nValue of __name__:", __name__)
     print("\n")
